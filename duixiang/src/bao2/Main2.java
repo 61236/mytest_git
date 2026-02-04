@@ -1,0 +1,16 @@
+package bao2;
+
+import bao.Student;
+
+//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
+// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+public class Main2 {
+    public static void main(String[] args) {
+
+        Student s1 = new Student();
+        s1.age = 10;
+        System.out.println(s1.age);
+        }
+
+
+    }
